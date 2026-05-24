@@ -120,7 +120,16 @@ Department of Computer Science, K.C. College, Churchgate, Mumbai
 
 ---
 
+## Screenshots
+
+### Warehouse Maze
+![Warehouse Maze](assets/warehouse-maze.png)
+
+### Robot Sprites
+![Robot](assets/robot.png)
 ## Contributors
+
+---
 
 | | Name | GitHub |
 |---|---|---|
